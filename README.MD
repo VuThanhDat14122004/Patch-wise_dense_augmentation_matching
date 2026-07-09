@@ -66,5 +66,5 @@ By restricting dense matching to smaller local regions, our method reduces relia
 *Fig 3. Visualization of geometric constraints in highly repetitive building facades.*
 
 ---
-**Project Repository:** [Click here to access the private repository](https://github.com/VuThanhDat14122004/Patch-wise_dense_augmentation_matching)
+**Project Repository:** [Click here to access the private repository](https://github.com/VuThanhDat14122004/Dense_augmentation_matching)
 *(Note: Access is restricted to authorized personnel only.)*
