@@ -30,6 +30,7 @@ We analyzed the impact of different dense matching strategies on the Succulent P
 | Dense match refinement | RoMa | 60.58 |
 | Dense match expansion | RoMa | 65.74 |
 | Global-to-local patch-wise dense matching | DKM | 62.30 |
+| Global-to-local patch-wise dense matching | LoFTR | 57.8 |
 | **Global-to-local patch-wise dense matching** | **RoMa** | **70.37** |
 
 ### Cross-Device Localization Accuracy
